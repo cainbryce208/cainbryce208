@@ -4,3 +4,8 @@
 
 I'm cainbryce208 , I also go by mudnut on steam and other platforms. 
 Most of my repos are primarily web based or arma 3 based
+
+
+## STATS!
+
+[![cainbryce208](https://github-readme-stats.vercel.app/api?username=cainbryce208)](https://github.com/anuraghazra/github-readme-stats)
